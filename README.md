@@ -1,5 +1,5 @@
 # Emails-Reading-through-AI-and-proving-summry-of-the-Email
-This project, "Enterprise Smart Notification Agent for Campus Automation," is a practical application of Artificial Intelligence (AI) and API integration to streamline information management, specifically concerning email communications, within a campus environment.
+	This project automates email management for campus users by leveraging Google's Gmail API and Gemini AI. It fetches recent emails, processes their content, and generates concise 5-line summaries, extracts key actions and deadlines, classifies emails by category (Academic, HR, Finance, IT, General), and assigns an urgency level. The goal is to provide "smart notifications," significantly reducing information overload and ensuring timely awareness of critical campus communications.This project, "Enterprise Smart Notification Agent for Campus Automation," is a practical application of Artificial Intelligence (AI) and API integration to streamline information management, specifically concerning email communications, within a campus environment.
 # Here's a breakdown of the project's purpose, how it works, and its significance:
 
 # Purpose:
